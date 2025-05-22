@@ -21,4 +21,9 @@ public abstract class Animale {
     public abstract void verso();
 
     public abstract void mangia();
+
+    @Override
+    public String toString() {
+        return "Animale con nome: " + this.nome;
+    }
 }

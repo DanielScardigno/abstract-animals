@@ -36,5 +36,10 @@ public class Main {
         delfino.mangia();
 
         System.out.println("-------------------------");
+
+        Testing.faiNuotare(cane);
+        Testing.faiVolare(passerotto);
+        Testing.faiVolare(aquila);
+        Testing.faiNuotare(delfino);
     }
 }

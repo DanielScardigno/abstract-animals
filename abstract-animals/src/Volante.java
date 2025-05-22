@@ -1,4 +1,4 @@
 public interface Volante {
 
-    void faiVolare();
+    void vola();
 }

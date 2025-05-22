@@ -15,7 +15,7 @@ public class Cane extends Animale implements Nuotante {
     }
 
     @Override
-    public void faiNuotare() {
+    public void nuota() {
         System.out.println("Sto nuotando!!!");
     }
 }

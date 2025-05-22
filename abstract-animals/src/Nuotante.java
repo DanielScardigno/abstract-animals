@@ -1,4 +1,4 @@
 public interface Nuotante {
 
-    void faiNuotare();
+    void nuota();
 }
